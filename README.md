@@ -19,7 +19,7 @@
 ## ⭐ 주요 기능
 ![image](https://github.com/WooRiGyeoRe/ToDoList/assets/144170214/cd6716ca-d1f0-496e-bd76-33487ee93f80)
 <a href="https://github.com/WooRiGyeoRe/ToDoList/blob/23181089f4f82d397692a11b9e6cdb4206759e5c/src/main/webapp/ch1/todoapp.html#L48C1-L50C83" target='_blank'> 할일 추가</a> <br>
-<a href="https://github.com/WooRiGyeoRe/ToDoList/blob/04a8e94e64fa3d9f60c0ade89342338165b5a056/src/main/webapp/ch1/todoapp.html#L11C1-L21C44" target='_blank'> 할일 추가</a> <br>
+<a href="https://github.com/WooRiGyeoRe/ToDoList/blob/23181089f4f82d397692a11b9e6cdb4206759e5c/src/main/webapp/ch1/todoapp.html#L11C1-L21C44" target='_blank'> 할일 추가</a> <br>
 <a href="https://github.com/WooRiGyeoRe/ToDoList/blob/04a8e94e64fa3d9f60c0ade89342338165b5a056/src/main/webapp/ch1/todoapp.html#L29C1-L38C16" target='_blank'> 할일 추가</a>
 
 ![image](https://github.com/WooRiGyeoRe/ToDoList/assets/144170214/260ec646-ca6f-4518-90d3-f54f5a1d4d32)
