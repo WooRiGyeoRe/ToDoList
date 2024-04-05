@@ -31,4 +31,14 @@
 ## 부트스트탭을 활용해 반응형으로 만듦
 ![image](https://github.com/WooRiGyeoRe/ToDoList/assets/144170214/af78483c-3528-4979-bf65-55540f503ddd)
 
+<br>
 
+## 💣트러블슈팅
+### 깃허브 commit, push가 안되는 문제가 발생
+- 이유 : rejected-non-fast-forward 깃허브와 이클립스 연동 오류
+- 해결 방법
+  1) Window - Other - Git - Git Repositories 오픈
+  2) Remotes - origin - Configure Fetch - Advanced... 클릭
+  3) Source ref 목록에 추가해주고 Add spec 클릭 - Finish 버튼 클릭 - Save and Fetch 버튼 클릭
+  4) 다시 Remotes - Local - Merge - origin/master - Merge 버튼 클릭 - OK 버튼 클릭 
+  5) 다시 커밋, 풀 했더니 잘 됐음
