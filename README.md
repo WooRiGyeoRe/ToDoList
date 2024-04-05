@@ -24,7 +24,7 @@
 
 ![image](https://github.com/WooRiGyeoRe/ToDoList/assets/144170214/260ec646-ca6f-4518-90d3-f54f5a1d4d32)
 ![image](https://github.com/WooRiGyeoRe/ToDoList/assets/144170214/c35efc71-c3bf-47c0-853a-9ae933721ce9)
-<a href="https://github.com/WooRiGyeoRe/ToDoList/blob/04a8e94e64fa3d9f60c0ade89342338165b5a056/src/main/webapp/ch1/todoapp.html#L23C1-L27C28" target='_blank'> 할일 삭제</a>
+<a href="https://github.com/WooRiGyeoRe/ToDoList/blob/23181089f4f82d397692a11b9e6cdb4206759e5c/src/main/webapp/ch1/todoapp.html#L23C1-L28C4" target='_blank'> 할일 삭제</a>
 
 <br>
 
