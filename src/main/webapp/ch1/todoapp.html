@@ -28,9 +28,11 @@
 		}
 		// li 요소 구성
 		listitem.innerText = todo.value;
-		listitem.appenChild(closebtn);
+		listitem.appendChild(closebtn);
+		
 		// ul 요소에 li 요소 추가
 		list.appendChild(listitem);
+		
 		// 입력 칸 비우기, 포커스 이동
 		todo.value = '';
 		todo.focus();
