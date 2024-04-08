@@ -1,9 +1,9 @@
-# 📜 To Do List (개인 프로젝트)
+# 📜 To Do List  
 ![image](https://github.com/WooRiGyeoRe/ToDoList/assets/144170214/f130742e-c8ce-4c7b-9f69-349a509c2e3c)
 
 <br>
 
-## 📅 토이프로젝트 
+## 📅 개인 연습
 2024.04.05 (40분 소요)
 
 <br>
